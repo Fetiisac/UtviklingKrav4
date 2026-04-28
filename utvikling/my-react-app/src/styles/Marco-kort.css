@@ -1,0 +1,31 @@
+
+.marco-profile {
+  background-color: white;
+  border: 2px solid #2563eb;
+  border-radius: 12px;
+  padding: 16px;
+  max-width: 250px;
+}
+
+.marco-profile img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.marco-profile h3 {
+  margin-bottom: 8px;
+}
+
+.marco-profile p {
+  margin-bottom: 8px;
+}
+
+.marco-profile a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.marco-profile a:hover {
+  text-decoration: underline;
+}
