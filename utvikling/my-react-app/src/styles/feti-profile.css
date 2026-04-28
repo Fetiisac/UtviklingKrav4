@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .feti-profile {
   background: #ffffff;
   border: 2px solid #1d4ed8;
@@ -27,5 +28,47 @@
 }
 
 .feti-profile a:hover {
+=======
+.feti-profile-card {
+  background-color: #ffffff;
+  border: 2px solid #0f172a;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  max-width: 320px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+}
+
+.feti-profile-header {
+  background-color: #071329;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.feti-image {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.feti-profile-header h3 {
+  margin: 0;
+  color: white;
+  font-size: 1.3rem;
+}
+
+.feti-profile-info p {
+  margin: 0.6rem 0;
+}
+
+.feti-profile-info a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.feti-profile-info a:hover {
+>>>>>>> Stashed changes
   text-decoration: underline;
 }
