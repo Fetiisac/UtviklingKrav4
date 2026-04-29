@@ -1,0 +1,48 @@
+.kalid-kort {
+  width: 260px;
+  padding: 0;
+  margin: 0;
+  background: none;
+  border: none;
+  border-radius: 0;
+  text-align: left;
+}
+
+/* NAVNEBOKSEN */
+.kalid-kort header {
+  background: #0a2a43;
+  padding: 0.8rem;
+  margin: 0;
+}
+
+.kalid-kort header h2 {
+  margin: 0;
+  color: white;
+  font-size: 1.3rem;
+}
+
+/* BILDET – skal være like bredt som navneboksen */
+.kalid-kort figure {
+  margin: 0;
+  padding: 0;
+}
+
+.kalid-kort img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* TEKST UNDER BILDET */
+.kalid-kort figcaption,
+.kalid-kort p,
+.kalid-kort a {
+  margin: 0.4rem 0 0 0;
+  padding-left: 0.8rem; /* venstrejustert i samme linje som navnet */
+  color: #222;
+  text-decoration: none;
+  display: block;
+}
