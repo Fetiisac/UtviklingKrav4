@@ -1,8 +1,5 @@
-import "../../styles/kalid-kort.css";
-
-
-import kalidbilde from "../../assets/aigenererte.png";
-
+import '../../styles/kalid-kort.css'
+import kalidbilde from '../../assets/aigenererte.png'
 
 export default function KalidKort() {
   return (

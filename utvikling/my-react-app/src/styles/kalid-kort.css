@@ -8,7 +8,7 @@
   text-align: left;
 }
 
-/* NAVNEBOKSEN */
+
 .kalid-kort header {
   background: #0a2a43;
   padding: 0.8rem;
@@ -21,7 +21,7 @@
   font-size: 1.3rem;
 }
 
-/* BILDET – skal være like bredt som navneboksen */
+
 .kalid-kort figure {
   margin: 0;
   padding: 0;
@@ -41,8 +41,7 @@
 .kalid-kort p,
 .kalid-kort a {
   margin: 0.4rem 0 0 0;
-  padding-left: 0.8rem; /* venstrejustert i samme linje som navnet */
-  color: #222;
+  padding-left: 0.8rem; 
   text-decoration: none;
   display: block;
 }
