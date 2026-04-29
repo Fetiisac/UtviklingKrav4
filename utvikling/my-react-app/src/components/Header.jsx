@@ -1,8 +1,8 @@
-export default function Header({ groupNumber }) {
+export default function Header() {
   return (
     <header>
-      <h1>{groupNumber}</h1>
-      <p>Utvikling av interaktive nettsteder</p>
+      <h1>Gruppe 5</h1>
+      <p>Arbeidskrav 4</p>
     </header>
   )
 }

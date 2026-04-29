@@ -1,11 +1,12 @@
-import FetiProfile from './profiler/FetiProfile' 
+import FetiProfile from './profiler/FetiProfile'
+import MarcoProfile from './profiler/Marco-kort'
 
 export default function ProfilesSection() {
   return (
-    <section aria-labelledby="group-members">
-      <h2 id="group-members">Gruppemedlemmer</h2>
+    <section>
+      <h2>Gruppemedlemmer</h2>
       <FetiProfile />
+      <MarcoProfile />
     </section>
   )
 }
-
